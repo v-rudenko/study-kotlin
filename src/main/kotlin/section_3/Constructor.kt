@@ -1,6 +1,6 @@
 //package section_3
 //
-//fun main() {
+//fun old_course.main() {
 //    val person = Person(name = "Viktor")
 //    println(person.toString())
 //}
